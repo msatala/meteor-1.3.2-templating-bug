@@ -1,0 +1,14 @@
+{
+  "name": "newgold",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@git.cloudfarms.com:cf/newgold.git"
+  },
+  "dependencies": {
+    "mapbox.js": "^2.4.0"
+  },
+  "scripts": {
+    "start": "meteor run"
+  }
+}
